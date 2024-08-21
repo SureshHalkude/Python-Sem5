@@ -1,0 +1,1 @@
+print('suresh' , 'age is 20')
